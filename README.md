@@ -1,4 +1,4 @@
-# Lambda World 2018
+# Lambda World 2018 λ
 ## Libraries
 +  [Fuiid](https://github.com/ChristopherDavenport/fuuid)
 +  [Refined](https://github.com/fthomas/refined)
