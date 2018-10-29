@@ -8,6 +8,7 @@
 +  [Squants](https://github.com/typelevel/squants)
 +  [Libra](https://github.com/to-ithaca/libra)
 +  [kontextfrei](https://github.com/dwestheide/kontextfrei)
++  [shapeaware](https://github.com/hablapps/shapeaware)
 ## Talks
 +  [Headfirst into Haskell - Abby Sassel](https://drive.google.com/file/d/1ikKuK6T2xccLynvdAVjGGZ029zjQlGAX/view)
    +   Resource - https://github.com/sassela/haskell-learning
