@@ -1,9 +1,9 @@
-# lambdaWorld2018
+# Lambda World 2018
 ## Libraries
 +  [Fuiid](https://github.com/ChristopherDavenport/fuuid)
 +  [Refined](https://github.com/fthomas/refined)
 +  [cats-mtl](https://github.com/typelevel/cats-mtl)
-+  [cats-tagles](https://typelevel.org/cats-tagless)
++  [cats-tagless](https://typelevel.org/cats-tagless)
 +  [agda](https://github.com/agda/agda)
 +  [Squants](https://github.com/typelevel/squants)
 ## Talks
