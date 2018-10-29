@@ -16,5 +16,4 @@
 Luka Jacobowitz](https://www.slideshare.net/LukaJacobowitz/testing-in-the-world-of-functional-programming)
 +  [Trip with monads - Pawel Szulc](https://www.slideshare.net/paulszulc/trip-with-monads-120830020)
 +  [Functional Lenses - Flavio Corpa](https://github.com/kutyel/functional-lenses)
-+  [Build your own monads - Alejandro](https://es.slideshare.net/AlejandroMena6/build-your-own-monads)
-+  [Boring usecases for exiting types - Itamar Ravid](https://speakerdeck.com/iravid/boring-usecases-for-exciting-types)
++  [Build your own monads - Alejandro Serrano Mena](https://es.slideshare.net/AlejandroMena6/build-your-own-monads)
