@@ -11,3 +11,4 @@
 +  [Testing in the World of Functional Programming - 
 Luka Jacobowitz](https://www.slideshare.net/LukaJacobowitz/testing-in-the-world-of-functional-programming)
 +  [functional-lenses](https://github.com/kutyel/functional-lenses)
++  [Trip with monads - Pawel Szulc](https://www.slideshare.net/paulszulc/trip-with-monads-120830020)
