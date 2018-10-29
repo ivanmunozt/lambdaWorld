@@ -10,3 +10,4 @@
    +   Resource - https://github.com/sassela/haskell-learning
 +  [Testing in the World of Functional Programming - 
 Luka Jacobowitz](https://www.slideshare.net/LukaJacobowitz/testing-in-the-world-of-functional-programming)
++  [functional-lenses](https://github.com/kutyel/functional-lenses)
