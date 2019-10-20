@@ -23,3 +23,4 @@
 
 # Lambda World 2019 λ
 ## Talks
++  [A categorical view of computational effects - Emily Riehl](http://www.math.jhu.edu/~eriehl/lambda.pdf)
