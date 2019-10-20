@@ -25,3 +25,4 @@
 ## Talks
 +  [A categorical view of computational effects - Emily Riehl](http://www.math.jhu.edu/~eriehl/lambda.pdf)
 ## Workshops
++  [Writing Programs That Write Tests: Better Testing With Scala - Adam Rosien](https://arosien.github.io/talks/better-testing#/section)
