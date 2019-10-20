@@ -20,3 +20,5 @@
 +  [Build your own monads - Alejandro Serrano Mena](https://es.slideshare.net/AlejandroMena6/build-your-own-monads)
 +  [Boring usecases for exiting types - Itamar Ravid](https://speakerdeck.com/iravid/boring-usecases-for-exciting-types)
 
+
+# Lambda World 2019 λ
