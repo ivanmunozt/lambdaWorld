@@ -24,5 +24,6 @@
 # Lambda World 2019 λ
 ## Talks
 +  [A categorical view of computational effects - Emily Riehl](http://www.math.jhu.edu/~eriehl/lambda.pdf)
++  [Fun with categories - Marco Perone](http://marcosh.github.io/presentations/2019/10/18/fun-with-categories.html#/)
 ## Workshops
 +  [Writing Programs That Write Tests: Better Testing With Scala - Adam Rosien](https://arosien.github.io/talks/better-testing#/section)
